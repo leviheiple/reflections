@@ -1,0 +1,22 @@
+Viewing the diff helped me quickly find the bug by showing
+me only what had changed between the two files. I quickly
+found the typo after reviewing the differences.
+
+Having access to the entire history of a file makes it easier
+and faster to spot errors that result from changes to the code.
+
+The advantage of manually choosing when to commit is that each
+version will be functional and saved at a logical point. The
+disadvantage is that, if you're careless, you could forget to
+save your code often enough.
+
+Git assumes you'll be working with inter-related files. Other
+programs like Google Docs, assume each file is independent.
+
+'git log' and 'git diff' are useful commands for viewing past
+changes to the files in a repository.
+
+Version control gives you confidence to experiment. If you break
+something, you can always revert back to a working version.
+
+I want to use Git to experiment with my web apps.
