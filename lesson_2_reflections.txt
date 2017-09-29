@@ -1,0 +1,22 @@
+When you initialize a repository it creates a new
+repository in git where you can upload your changes.
+
+The staging area does not commit any files to your repository.
+Instead, it keeps them in a staging area until you're ready to
+"commit."
+
+The staging area allows me to review changes before commiting
+them. I can make sure that I group the commits together logically.
+
+Branches are helpful for when you want to make an alternative
+version of your program without changing the original.
+
+Diagrams help you visually understand which the lineage of
+each master commit and where you have unreachable commits.
+
+When you merge two branches together the changes and the commit
+history are merged into one branch.
+
+Having to manually choose which changes to merge can be annoying.
+But it prevents you from creating a merged branch with the wrong
+changes when there is a conflict.
