@@ -1,1 +1,2 @@
-First reflection goes here
+You can use remote depositories when you are working on another computer
+or collaborating with someone in a different location.
